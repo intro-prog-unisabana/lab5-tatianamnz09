@@ -28,3 +28,11 @@ def floor_divide(num1, num2):
 def absolute(num):
     return abs(num)
 
+def count_letters(str,a):
+    return str.count(a)
+
+def flip(str):
+    return str[::-1]
+    
+    
+
